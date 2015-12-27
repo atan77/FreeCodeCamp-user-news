@@ -1,0 +1,30 @@
+body {
+  background-color: #d0e4fe;
+}
+.outline {
+  font-family: sans-serif;
+}
+.header {
+  font-size: 2em;
+}
+.card {
+  display: inline-block;
+  margin: 0px 10px 0px 0px;
+  padding: 5px;
+  height: 340px;
+}
+.cardinfo {
+  width: 200px;
+  height: 120px;
+  position: absolute;
+  background-color: white;
+  padding: 5px;
+}
+.userpic img{
+  height: 200px;
+  border-radius: 15px 15px 0 0;
+  position: relative;
+}
+.votes {
+  color: black;
+}
